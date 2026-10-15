@@ -1,0 +1,11 @@
+node_modules/
+.next/
+testenv/
+.env
+.env.*
+!.env.example
+.selfheal/
+backend/.selfheal/
+__pycache__/
+*.pyc
+*.tsbuildinfo
