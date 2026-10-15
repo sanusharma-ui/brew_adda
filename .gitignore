@@ -1,11 +1,8 @@
 node_modules/
 .next/
-testenv/
+.next-production/
+output/
 .env
 .env.*
 !.env.example
-.selfheal/
-backend/.selfheal/
-__pycache__/
-*.pyc
 *.tsbuildinfo
